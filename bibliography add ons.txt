@@ -1,0 +1,35 @@
+(NCES, 2015). 
+https://nces.ccschools.k12tn.net/attendanceresources#:~:text=Research%20has%20shown%20that%20your,than%20students%20who%20do%20not.
+
+(Nandhini et. al., 2019)
+https://www.ijeat.org/wp-content/uploads/papers/v8i3S/C11230283S19.pdf
+
+ISSN No:-2456-2165
+IJISRT21MAY686 www.ijisrt.com 725
+OpenCV Real-time Face Recognition Attendance
+System to Online-School Attendances
+Almer John E. Cañete
+Northern Negros State College of Science and Technology, 
+
+International Journal of Innovative Technology and Exploring Engineering (IJITEE)ISSN: 2278-3075 (Online), Volume-10 Issue-8, June 2021
+Attendance Monitoring System of Schools in the Philippines with an Inclusion of Optimization Query Algorithm
+Arman Bernard G. Santos,NeilP. Balba, Corazon B. Rebong
+
+https://faceki.com/advantages-of-using-face-recognition-attendance-system-at-workplace/
+FACEKI 2022
+
+https://iopscience.iop.org/article/10.1088/1757-899X/394/3/032045
+Research Process on Software Development Model
+Jiujiu Yu (2018)
+
+4 Phases of Rapid Application Development Methodology
+https://www.lucidchart.com/blog/rapid-application-development-methodology
+Lucidchart(2020)
+
+The Fishbone Diagram to Identify, Systematize and Analyze the Sources of General Purpose Technologies
+Journal of Social and Administrative Sciences, vol. 4, n. 4, pp. 291-303
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3100011
+Mario Coccia
+National Research Council of Italy (CNR)
+Date Written: January 11, 2018
+
